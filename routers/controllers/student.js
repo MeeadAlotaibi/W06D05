@@ -13,7 +13,7 @@ const studentFunc = (req, res) => {
     });
 };
 
-
+/////////  ?!
 const anotherFunc = (req, res) =>{
   studentFunc
     .find({})
